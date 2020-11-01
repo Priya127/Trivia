@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.contain{
+  position:relative;
+  text-align: center;
+  color:white;
+  width:90vw;
+  height: 90vh;
+  margin:0;
+   }
+  
+
+
+.header{
+  width: 80%;
+  margin: 30px  auto 0 auto;
+  position:relative;
+  min-height: 85vh;
+  background:navy;
+  border: 50px solid #9455f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header1{
+  width: 80%;
+  margin: 30px  auto 0 auto;
+  position:relative;
+  min-height: 85vh;
+  border: 50px solid #9455f4;
+  color:black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.butn{
+  height: 40px;
+  width: 100px;
+  background-color: chartreuse;
+  border-color: chartreuse;
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 450;
+  color: black;
+}
+
+.butn1{
+  height: 40px;
+  width: 150px;
+  background-color: chartreuse;
+  border-color: chartreuse;
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 450;
+  color: black;
+}
+
+.link{
+  text-decoration: none;
+  cursor: pointer;
+  color:black;
+  outline: none;
+}
+
+div h5{
+  margin-bottom: 30px;
+}
+
+div p{
+  
+  font-size: medium;
+  font-weight: 500;
+  margin: 40px 50px 30px 50px;
+  text-align: center;
+}
+
+ul{
+  margin: 0;
+  font-size: 20px;
+  text-align: left;
+  
+}
+
+li{
+margin-bottom: 15px;
+}
+
